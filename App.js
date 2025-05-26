@@ -2,11 +2,11 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-import Detail from "./components/detail";
+import Detail from "./detail";
 
-import Mascotas from "./components/mascotas";
+import Mascotas from "./mascotas";
 
-import NavBar from "./components/navbar";
+import NavBar from "./navbar";
 
 
 function App() {
